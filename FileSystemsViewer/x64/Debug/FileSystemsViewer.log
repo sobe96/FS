@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  Cluster.cpp
+  Decorator.cpp
+  Foundation.cpp
+  EXFAT.cpp
+c:\users\diyo1\onedrive\рабочий стол\fs\filesystemsviewer\exfat.cpp(7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\diyo1\onedrive\рабочий стол\fs\filesystemsviewer\exfat.cpp(8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\diyo1\onedrive\рабочий стол\fs\filesystemsviewer\exfat.cpp(10): warning C4244: =: преобразование "ULONGLONG" в "int", возможна потеря данных
+  FAT.cpp
+  FileHandle.cpp
+c:\users\diyo1\onedrive\рабочий стол\fs\filesystemsviewer\filehandle.cpp(16): warning C4838: преобразование из "int" в "DWORD" требует сужающего преобразования
+  Iterator.cpp
+  FSView.cpp
+  NTFS.cpp
+  FactoryMethod.cpp
+  Создание кода...
+c:\users\diyo1\onedrive\рабочий стол\fs\filesystemsviewer\factorymethod.cpp(23): warning C4715: FactoryMethod::CreateReader: значение возвращается не при всех путях выполнения
+  FileSystemsViewer.vcxproj -> C:\Users\diyo1\OneDrive\Рабочий стол\FS\x64\Debug\FS.exe
